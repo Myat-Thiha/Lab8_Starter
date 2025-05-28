@@ -1,10 +1,10 @@
 {
-    "name": "",
-    "short_name": "",
-    "description": "",
-    "start_url": "",
-    "display": "",
-    "background_color": "",
+    "name": "Myat-Thiha/Lab8_Starter",
+    "short_name": "Myat-Thiha",
+    "description": "Recipe App",
+    "start_url": "/index.html",
+    "display": "fullscreen",
+    "background_color": "#ffffff",
     "theme_color": "",
     "icons": [
       {
